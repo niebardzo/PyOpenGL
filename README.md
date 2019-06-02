@@ -16,7 +16,7 @@ To quickly install all requirements is the best to install those via "pipenv" us
 
 # Demo
 
-![Figure](https://github.com/pat049b/PyOpenGL/blob/master/static/figure.gif?raw=true)
+![Figure](../master/static/figure.gif)
 
 # Install Dependecies
 
