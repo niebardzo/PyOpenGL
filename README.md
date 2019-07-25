@@ -18,15 +18,15 @@ To quickly install all requirements is the best to install those via "pipenv" us
 
 ![Figure](../master/static/figure.gif)
 
-# Install Dependecies
+# Install Dependencies
 
-Recommended way to install all dependecies
+The recommended way to install all dependencies
 
     pipenv install
 
 # How to run
 
-After all requirements are covered run the script typing
+After all, requirements are covered run the script typing
 
     python3 script.py
 
